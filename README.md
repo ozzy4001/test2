@@ -6,19 +6,3 @@ PC 브라우져별 한글 line-height의 차이가 보여 크로스 브라우징
 * 옵션 : 사이즈, 컬러, 라운딩, 글라데이션
 * Size : mini, tiny, small, default, large, big, huge, giant
 
-### Size
-
-### Gradiant
-
-### Invert
-
-### Invert Dimmer
-
-### Radius
-
-### With Icon \(sprite images\)
-
-### Only Icon
-
-### Group Button
-
