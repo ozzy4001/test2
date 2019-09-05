@@ -4,7 +4,7 @@
 
 ## group A
 
-* [menuA](group-a/test.md)
+* [menuA](group-a/menua.md)
 * [menuB](group-a/menub.md)
 * [menuC](group-a/menuc.md)
 * [menuD](group-a/menud.md)
